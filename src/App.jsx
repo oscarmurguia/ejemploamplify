@@ -173,7 +173,7 @@ function App() {
         <p>¿Interesado en trabajar juntos? ¡Contáctame!</p>
         <div className="contact-info">
           <p>📧 oscar.murguia@email.com</p>
-          <p>📱 +34 612 345 678</p>
+          <p>📱 +59177133301</p>
           <p>💼 linkedin.com/in/oscarmurguia</p>
           <p>🐙 github.com/oscarmurguia</p>
         </div>
